@@ -1,0 +1,2 @@
+Schema mismatch detected.
+Unexpected column 'customer_age' found in source data.

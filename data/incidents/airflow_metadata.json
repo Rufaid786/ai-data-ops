@@ -1,0 +1,9 @@
+
+{
+    "dag_id": "sales_etl",
+    "task_id": "load_sales",
+    "run_id": "scheduled__2026-11-18",
+    "state": "failed",
+    "try_number": 2,
+    "timestamp": "2026-11-18T10:30:00"
+}

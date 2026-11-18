@@ -1,0 +1,4 @@
+
+2026-11-18 10:30:00 ERROR: Duplicate transaction_id detected.
+Expected unique transaction IDs.
+Found 25 duplicate records.
